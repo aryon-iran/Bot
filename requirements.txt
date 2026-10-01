@@ -1,2 +1,3 @@
-pyrobale
-flask
+fastapi
+uvicorn
+httpx
